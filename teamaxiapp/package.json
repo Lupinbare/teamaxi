@@ -1,0 +1,42 @@
+{
+  "name": "teamaxiapp",
+  "version": "1.1.2",
+  "private": false,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "^18",
+    "react-dom": "^18",
+    "teabot": "^2.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  },
+  "description": "tea maxi ",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lupinbare/teamaxi"
+  },
+  "keywords": [
+    "tea"
+  ],
+  "author": "0xlupin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lupinbare/teamaxi/issues"
+  },
+  "homepage": "https://github.com/Lupinbare/teamaxi#readme"
+}
